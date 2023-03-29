@@ -1,0 +1,5 @@
+services we offer:
+  code terminal
+  web dev ide
+  novels
+  movie links/embeded
